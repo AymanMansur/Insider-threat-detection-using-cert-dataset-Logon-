@@ -25,3 +25,4 @@ Scikit-Learn (Machine Learning - Isolation Forest)
 Expand analysis to multiple users.
 Incorporate additional features like IP addresses and geolocation.
 Test other anomaly detection techniques (e.g., One-Class SVM, Autoencoders).
+Dataset Link: https://www.kaggle.com/datasets/mrajaxnp/cert-insider-threat-detection-research/data?select=logon.csv 
